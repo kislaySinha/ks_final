@@ -1,0 +1,88 @@
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.AssemblyInfoInputs.cache
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.AssemblyInfo.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.csproj.CoreCompileInputs.cache
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.RazorAssemblyInfo.cache
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.RazorAssemblyInfo.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\staticwebassets\firapp.StaticWebAssets.Manifest.cache
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\staticwebassets\firapp.StaticWebAssets.xml
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\scopedcss\bundle\firapp.styles.css
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.TagHelpers.input.cache
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.TagHelpers.output.cache
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.RazorCoreGenerate.cache
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Employee\Thanks.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Employee\Update.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.RazorTargetAssemblyInfo.cache
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.RazorTargetAssemblyInfo.cs
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.dll
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\ref\firapp.dll
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.pdb
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\bin\Debug\net5.0\appsettings.json
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\bin\Debug\net5.0\firapp.exe
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\bin\Debug\net5.0\firapp.deps.json
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\bin\Debug\net5.0\firapp.runtimeconfig.json
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\bin\Debug\net5.0\firapp.runtimeconfig.dev.json
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\bin\Debug\net5.0\firapp.dll
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\bin\Debug\net5.0\ref\firapp.dll
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\bin\Debug\net5.0\firapp.pdb
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\bin\Debug\net5.0\firapp.Views.dll
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\bin\Debug\net5.0\firapp.Views.pdb
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.Views.pdb
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.genruntimeconfig.cache
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.csproj.CopyComplete
+C:\Users\kislaysinha\Desktop\My ASSGN\kislaysinha\firapp\obj\Debug\net5.0\firapp.csproj.AssemblyReference.cache
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\bin\Debug\net5.0\appsettings.json
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\bin\Debug\net5.0\firapp.exe
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\bin\Debug\net5.0\firapp.deps.json
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\bin\Debug\net5.0\firapp.runtimeconfig.json
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\bin\Debug\net5.0\firapp.runtimeconfig.dev.json
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\bin\Debug\net5.0\firapp.dll
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\bin\Debug\net5.0\ref\firapp.dll
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\bin\Debug\net5.0\firapp.pdb
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\bin\Debug\net5.0\firapp.Views.dll
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\bin\Debug\net5.0\firapp.Views.pdb
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.csproj.AssemblyReference.cache
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.AssemblyInfoInputs.cache
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.AssemblyInfo.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.csproj.CoreCompileInputs.cache
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.RazorAssemblyInfo.cache
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.RazorAssemblyInfo.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\staticwebassets\firapp.StaticWebAssets.Manifest.cache
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\staticwebassets\firapp.StaticWebAssets.xml
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\scopedcss\bundle\firapp.styles.css
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.TagHelpers.input.cache
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.TagHelpers.output.cache
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.RazorCoreGenerate.cache
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Employee\Thanks.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Employee\Update.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.RazorTargetAssemblyInfo.cache
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.RazorTargetAssemblyInfo.cs
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.Views.pdb
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.dll
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\ref\firapp.dll
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.pdb
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.genruntimeconfig.cache
+C:\Users\kislaysinha\Desktop\My ASSGN - Copy\kislaysinha\firapp\obj\Debug\net5.0\firapp.csproj.CopyComplete

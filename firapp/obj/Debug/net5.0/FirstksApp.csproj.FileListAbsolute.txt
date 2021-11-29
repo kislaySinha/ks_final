@@ -1,0 +1,88 @@
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\bin\Debug\net5.0\appsettings.json
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\bin\Debug\net5.0\FirstksApp.exe
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\bin\Debug\net5.0\FirstksApp.deps.json
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\bin\Debug\net5.0\FirstksApp.runtimeconfig.json
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\bin\Debug\net5.0\FirstksApp.runtimeconfig.dev.json
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\bin\Debug\net5.0\FirstksApp.dll
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\bin\Debug\net5.0\ref\FirstksApp.dll
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\bin\Debug\net5.0\FirstksApp.pdb
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\bin\Debug\net5.0\FirstksApp.Views.dll
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\bin\Debug\net5.0\FirstksApp.Views.pdb
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.csproj.AssemblyReference.cache
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.AssemblyInfoInputs.cache
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.AssemblyInfo.cs
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.csproj.CoreCompileInputs.cache
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.RazorAssemblyInfo.cache
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.RazorAssemblyInfo.cs
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\staticwebassets\FirstksApp.StaticWebAssets.Manifest.cache
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\staticwebassets\FirstksApp.StaticWebAssets.xml
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\scopedcss\bundle\FirstksApp.styles.css
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.TagHelpers.input.cache
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.TagHelpers.output.cache
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.RazorCoreGenerate.cache
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\Razor\Views\Employee\Thanks.cshtml.g.cs
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.RazorTargetAssemblyInfo.cache
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.RazorTargetAssemblyInfo.cs
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.Views.pdb
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.dll
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\ref\FirstksApp.dll
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.pdb
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.genruntimeconfig.cache
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\FirstksApp.csproj.CopyComplete
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\kislaysinha\source\repos\FirstksApp\FirstksApp\obj\Debug\net5.0\Razor\Views\Employee\Update.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\bin\Debug\net5.0\appsettings.json
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\bin\Debug\net5.0\FirstksApp.exe
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\bin\Debug\net5.0\FirstksApp.deps.json
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\bin\Debug\net5.0\FirstksApp.runtimeconfig.json
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\bin\Debug\net5.0\FirstksApp.runtimeconfig.dev.json
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\bin\Debug\net5.0\FirstksApp.dll
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\bin\Debug\net5.0\ref\FirstksApp.dll
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\bin\Debug\net5.0\FirstksApp.pdb
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\bin\Debug\net5.0\FirstksApp.Views.dll
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\bin\Debug\net5.0\FirstksApp.Views.pdb
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.csproj.AssemblyReference.cache
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.AssemblyInfoInputs.cache
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.AssemblyInfo.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.csproj.CoreCompileInputs.cache
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.RazorAssemblyInfo.cache
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.RazorAssemblyInfo.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\staticwebassets\FirstksApp.StaticWebAssets.Manifest.cache
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\staticwebassets\FirstksApp.StaticWebAssets.xml
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\scopedcss\bundle\FirstksApp.styles.css
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.TagHelpers.input.cache
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.TagHelpers.output.cache
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.RazorCoreGenerate.cache
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\Razor\Views\Employee\Thanks.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\Razor\Views\Employee\Update.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.RazorTargetAssemblyInfo.cache
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.RazorTargetAssemblyInfo.cs
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.Views.pdb
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.dll
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\ref\FirstksApp.dll
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.pdb
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.genruntimeconfig.cache
+C:\Users\kislaysinha\Desktop\New folder\kislaysinha\FirstksApp\obj\Debug\net5.0\FirstksApp.csproj.CopyComplete
